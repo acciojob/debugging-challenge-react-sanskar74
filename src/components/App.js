@@ -3,7 +3,7 @@ import '../styles/App.css';
 
 const App = () => {
 
-  const [count, setCount] = useState(0)
+  const [count, setCount] = useState(1)
 
   return (
     <div class="ball">
